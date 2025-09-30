@@ -81,7 +81,7 @@ async function carregarProdutos() {
 // --- Lógica de Carrossel Automático (Mobile) ---
 
 const catalogoElement = document.getElementById('catalogo-container');
-const intervalTime = 4000; // 4 segundos, conforme solicitado
+const intervalTime = 2500; // 4 segundos, conforme solicitado
 let autoScrollInterval;
 let isUserInteracting = false;
 let interactionTimeout;
