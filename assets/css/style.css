@@ -18,8 +18,8 @@
 body {
     font-family: 'Poppins', sans-serif;
     /* Fundo com gradiente suave */
-    background: linear-gradient(135deg, #ffeef8 0%, #fff5f7 50%, #ffe8f5 100%);
-    color: var(--dark);
+    background: linear-gradient(135deg, #ffeef8 0%, #fff5f7 50%, #ffe8f5 100%) !important;
+    color: var(--dark) !important;
     overflow-x: hidden;
     min-height: 100vh;
 }
